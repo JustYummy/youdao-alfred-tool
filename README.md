@@ -35,7 +35,7 @@ end run
 ```
 
 ## 可配合 [有道翻译](https://github.com/wensonsmith/YoudaoTranslate)使用
-![gif2](https://github.com/JustYummy/AlfredToolForYoudaoApp/blob/master/GIF/gif3.gif)
+![gif2](https://github.com/JustYummy/AlfredToolForYoudaoApp/blob/master/GIF/gif2.gif)
 下载Youdao Translate.alfredworkflow
 调用关键词是”f“，调用应用是”option“ + ”enter“
 可根据使用情况更改
