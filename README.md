@@ -38,6 +38,6 @@ end run
 ![gif2](https://github.com/JustYummy/AlfredToolForYoudaoApp/blob/master/GIF/gif2.gif)
 下载Youdao Translate.alfredworkflow
 调用关键词是”f“，调用应用是”option“ + ”enter“
-可根据使用情况更改
+可根据使用习惯更改
 
 下载地址：[releases](https://github.com/JustYummy/AlfredToolForYoudaoApp/releases/tag/1.0)
