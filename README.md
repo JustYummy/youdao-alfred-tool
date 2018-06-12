@@ -1,7 +1,7 @@
 # 利用Alfred调用有道翻译程序
 
 ![gif1](https://github.com/JustYummy/AlfredToolForYoudaoApp/blob/master/GIF/gif1.gif)
-调用关键词是”yd“
+调用关键词是`yd`
 
 ## 实现方法
 1、通过Swift调用系统接口(NSPerformService),调用有道词典服务接口
@@ -37,7 +37,7 @@ end run
 ## 可配合 [有道翻译](https://github.com/wensonsmith/YoudaoTranslate)使用
 ![gif2](https://github.com/JustYummy/AlfredToolForYoudaoApp/blob/master/GIF/gif2.gif)
 下载Youdao Translate.alfredworkflow
-调用关键词是”f“，调用应用是”option“ + ”enter“
+调用关键词是`f`，调用应用是`option + enter`
 可根据使用习惯更改
 
 下载地址：[releases](https://github.com/JustYummy/AlfredToolForYoudaoApp/releases/tag/1.0)
