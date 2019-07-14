@@ -34,6 +34,10 @@ on run argv
 end run
 ```
 
+### 注：如果不能用则需要打开对应的权限
+
+![sug](https://github.com/JustYummy/youdao-alfred-tool/blob/master/GIF/sugestion.png)
+
 ## 可配合 [有道翻译](https://github.com/wensonsmith/YoudaoTranslate)使用
 ![gif2](https://github.com/JustYummy/AlfredToolForYoudaoApp/blob/master/GIF/gif2.gif)
 下载Youdao Translate.alfredworkflow
