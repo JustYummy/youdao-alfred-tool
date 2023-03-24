@@ -44,4 +44,7 @@ end run
 调用关键词是`f`，调用应用是`option + enter`
 可根据使用习惯更改
 
-下载地址：[releases](https://github.com/JustYummy/AlfredToolForYoudaoApp/releases/tag/1.0)
+## 源仓库
+[YoudaoTranslate](https://github.com/wensonsmith/YoudaoTranslator)
+
+下载地址：[releases](https://github.com/JustYummy/AlfredToolForYoudaoApp/releases/tag/2.7)
