@@ -47,4 +47,5 @@ end run
 ## 源仓库
 [YoudaoTranslate](https://github.com/wensonsmith/YoudaoTranslator)
 
-下载地址：[releases](https://github.com/JustYummy/AlfredToolForYoudaoApp/releases/tag/2.7)
+## 下载
+下载地址：[releases 2.7](https://github.com/JustYummy/AlfredToolForYoudaoApp/releases/tag/2.7)
